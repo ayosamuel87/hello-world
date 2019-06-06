@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone
+
+Samuel here, i love music, technologies, art, surfing the internet and meeting new friends
